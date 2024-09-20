@@ -1,0 +1,26 @@
+.footerContainer {
+    width: 100%;
+    background-color: #ffffff; 
+    padding: 20px; 
+    text-align: center; 
+  }
+  
+  .footerText {
+    font-family: 'Work Sans';
+    font-size: 14px;
+    color: #2563EB; 
+  }
+  
+  .footerLink {
+    color: #1D4ED8;
+    text-decoration: none; 
+  }
+  
+  .footerLink:hover {
+    text-decoration: underline; 
+  }
+  
+  .footerContainer {
+    padding: 40px; 
+  }
+  
